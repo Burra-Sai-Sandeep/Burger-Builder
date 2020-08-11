@@ -1,3 +1,5 @@
+Burger Builder is a project developed mainly by using React Js along with redux. Firebase was used as the backend to store and retrieve orders and also for authentication. A few basic unit tests were also added using Jest(which is built into projects created using create-react-app) and Enzyme.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
